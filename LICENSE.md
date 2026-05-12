@@ -1,4 +1,4 @@
-#  
+#  Enhance Notion for macOS with Notion for macOS rare Automation - export to PDF and focus mode, the #1 automation. Includes export to PDF and focus mode for a smoother experience.
 
 
 
